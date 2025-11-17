@@ -1,0 +1,15 @@
+{
+  "client_id": "CHEN-001",
+  "client_name": "Sarah Chen",
+  "risk_tolerance": "Moderate",
+  "advisor_notes": "Client is saving for her children's education (10-12 years away). She is sensitive to market volatility but understands the need for growth. Has expressed recent concern about her portfolio's high concentration in the technology sector.",
+  "portfolio": {
+    "AAPL": { "shares": 100, "sector": "Technology" },
+    "MSFT": { "shares": 150, "sector": "Technology" },
+    "GOOGL": { "shares": 50, "sector": "Technology" },
+    "VTI": { "shares": 300, "sector": "Broad Market ETF" },
+    "JNJ": { "shares": 200, "sector": "Healthcare" }
+  },
+  "latest_inquiry": "Hi team, I saw the news this week and I'm getting a bit nervous about all the tech stocks in my account. Can you give me a quick summary of my main risks right now and let me know if I should be making changes?"
+}
+

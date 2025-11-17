@@ -1,0 +1,6 @@
+Subject: Client Onboarding and Know Your Customer (KYC) Procedures
+Policy ID: KYC-001
+Effective Date: 2024-01-01
+
+All new individual clients must provide two forms of unexpired, government-issued identification. One must be a photo ID, such as a passport or driver's license. The second can be a utility bill or bank statement issued within the last 90 days as proof of address. For corporate clients, the required documentation includes the articles of incorporation, a list of beneficial owners holding 25% or more of the company, and the photo ID for each beneficial owner. All documents must be verified before account activation.
+

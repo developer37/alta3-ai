@@ -1,0 +1,6 @@
+Subject: Policy on Digital and Crypto Asset Investments
+Policy ID: CRYP-002
+Effective Date: 2024-05-20
+
+The firm maintains a cautious stance on direct investment in crypto assets. Clients must sign a specific high-risk digital asset disclosure form before any transactions can be made. Only pre-approved assets, including Bitcoin (BTC) and Ethereum (ETH), are permissible for investment. Investments in Initial Coin Offerings (ICOs) or privacy coins are strictly prohibited. All crypto transactions are subject to a 2% transaction fee and must be executed through the firm's approved digital asset cusodian.
+

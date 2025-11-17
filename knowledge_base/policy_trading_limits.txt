@@ -1,0 +1,6 @@
+Subject: Client Risk Profiles and Trading Limitations
+Policy ID: RISK-003
+Effective Date: 2023-11-15
+
+Client accounts are assigned a risk profile: Conservative, Moderate, or High. Trading limits are applied accordingly. For accounts designated as 'Moderate', the maximum daily equity trading volume is $100,000 USD. For accounts designated as 'High', this limit is raised to $500,000 USD. There are no daily limits for 'Conservative' profiles as they are restricted from speculative day trading. Any request to change a risk profile must be submitted in writing and approved by a senior portfolio manager.
+
